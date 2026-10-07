@@ -84,10 +84,10 @@ Welcome to the ultimate curated directory of **edge computing platforms for IoT*
 
 
 - **[K3s](https://github.com/k3s-io/k3s)** [![Stars](https://img.shields.io/github/stars/k3s-io/k3s?style=social&color=white)](https://github.com/k3s-io/k3s/stargazers)  
-  **Lightweight Kubernetes**, Apache-2.0 licensed. **30K+ GitHub stars** — **the lightest certified Kubernetes distribution** . **Single binary under 100MB** — runs on **Raspberry Pi, edge devices, and IoT** . **<512MB RAM** required for the control plane . **Built for resource-constrained environments** . **The standard for edge Kubernetes** . 🍓
+  **Lightweight Kubernetes**, Apache-2.0 licensed. **30K+ GitHub_Stars** — **the lightest certified Kubernetes distribution** . **Single binary under 100MB** — runs on **Raspberry Pi, edge devices, and IoT** . **<512MB RAM** required for the control plane . **Built for resource-constrained environments** . **The standard for edge Kubernetes** . 🍓
 
 - **[Node-RED](https://github.com/node-red/node-red)** [![Stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)  
-  **Low-code programming for event-driven applications**, Apache-2.0 licensed. **20K+ GitHub stars** — **the most popular open-source IoT flow programming tool** . **Browser-based flow editor** — **wire together devices, APIs, and services** . **4000+ community-contributed nodes** . **Runs on Raspberry Pi, edge devices, and cloud** . **The definitive open-source IoT integration platform** . 🔴
+  **Low-code programming for event-driven applications**, Apache-2.0 licensed. **20K+ GitHub_Stars** — **the most popular open-source IoT flow programming tool** . **Browser-based flow editor** — **wire together devices, APIs, and services** . **4000+ community-contributed nodes** . **Runs on Raspberry Pi, edge devices, and cloud** . **The definitive open-source IoT integration platform** . 🔴
 
 - **[KubeEdge](https://github.com/kubeedge/kubeedge)** [![Stars](https://img.shields.io/github/stars/kubeedge/kubeedge?style=social&color=white)](https://github.com/kubeedge/kubeedge/stargazers)  
   **Kubernetes-native edge computing framework**, Apache-2.0 licensed. **CNCF Graduated project** — **extends Kubernetes to edge hosts** . **Cloud-edge collaboration with edge autonomy** . **The most production-proven edge Kubernetes platform** . ☸️
